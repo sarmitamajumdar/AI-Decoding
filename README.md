@@ -28,3 +28,10 @@ Plotly → Interactive visualization
 Scikit-learn → PCA, ML utilities
 
 Pandas & NumPy → Data handling
+
+Author & Contribution
+
+## Written by Sarmita Majumdar
+### Published in Medium.com
+### Connect on LinkedIn
+ | Medium
