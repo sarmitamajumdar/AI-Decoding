@@ -31,7 +31,7 @@ Pandas & NumPy → Data handling
 
 Author & Contribution
 
-## Written by Sarmita Majumdar
-### Published in Medium.com
-### Connect on LinkedIn
- | Medium
+#### Written by Sarmita Majumdar
+#### Published in Medium.com: https://sarmita-majumdar.medium.com/
+#### Connect on LinkedIn : https://www.linkedin.com/in/sarmitamajumdar
+
